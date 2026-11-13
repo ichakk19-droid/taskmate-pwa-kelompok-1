@@ -1,0 +1,15 @@
+/* Styling tambahan TaskMate */
+
+#root {
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}
+
+input,
+textarea,
+select {
+  font: inherit;
+}
